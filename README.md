@@ -1,6 +1,7 @@
 ## Trabalho feito por:
-Pedro Mansur (https://github.com/PedroTMansur)
-Lucas Fonseca Rosa Magalhães (https://github.com/lucasfonsecarosamagalhaes)
+- Pedro Mansur (https://github.com/PedroTMansur)
+
+- Lucas Fonseca Rosa Magalhães (https://github.com/lucasfonsecarosamagalhaes)
 
 ## Tecnologias Utilizadas
 
